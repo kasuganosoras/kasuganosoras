@@ -22,4 +22,4 @@ Peace and Love.
 - 目前为 [ZeroDream](https://www.zerodream.net/) 工作室的负责人
 - 日常在 Bilibili 上发布游戏视频：[@Akkariins](https://space.bilibili.com/21165317)
 
-![img](https://i.zerodream.net/1ed932711e29723669b97208682671df.png)
+![%UH 1AY$S(XHTOV{N_%U)EM](https://user-images.githubusercontent.com/34357771/147701096-0db0d6a2-8f91-473b-8d0e-630dcd6228c9.jpg)
