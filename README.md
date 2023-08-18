@@ -17,7 +17,7 @@ Peace and Love.
 
 我是 <s>练习时长两年半</s> 来自中国的 PHPer，擅长摸鱼，一个只玩 GTA5 的人，喜欢改装车，业余漂移车手。
 
-目前在某游戏公司做外包，业余时间随缘接单，有 🐘 PHP 或者 🐌 FiveM 相关的活可以找我，价格好商量。
+目前在开发自己的游戏项目 [ZERODREAM RACING](https://www.zerodream.net/home)，业余时间随缘接单，有 🐘 PHP 或者 🐌 FiveM 相关的活可以找我，价格好商量。
 
 - 🖥️ 曾开发过 [Sakura Frp](https://www.natfrp.com/)（已出售） / [PHPMC 7](https://github.com/ZeroDream-CN/PHPMC7) 等软件
 - 🚗 热衷于制作 [Grand Theft Auto V](https://zh.gta5-mods.com/users/Prismaillya) 游戏模组，以及 [Minecraft](https://www.spigotmc.org/resources/authors/kasuganosora.507291/) 服务端插件（Spigot 系）
