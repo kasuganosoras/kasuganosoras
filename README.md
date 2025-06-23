@@ -1,4 +1,4 @@
-<img src="https://cdn.worldofcraft.cn/files/github/readme.svg?s=2" style="width: 100%;">
+<img src="https://cdn.worldofcraft.cn/files/github/readme.svg?s=3" style="width: 100%;">
 
 <img src="https://cdn.worldofcraft.cn/files/github/akkariin.svg?s=2" style="width: 25%" align="right">
 
